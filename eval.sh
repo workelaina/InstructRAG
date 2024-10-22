@@ -1,5 +1,5 @@
-DATASET=ASQA # [PopQA, TriviaQA, NaturalQuestions, 2WikiMultiHopQA, ASQA]
-MODEL=InstructRAG-ICL # [InstructRAG-FT, InstructRAG-ICL]
+DATASET=PopQA # [PopQA, TriviaQA, NaturalQuestions, 2WikiMultiHopQA, ASQA]
+MODEL=InstructRAG-FT # [InstructRAG-FT, InstructRAG-ICL]
 
 CUDA_VISIBLE_DEVICES=0 python src/inference.py \
   --dataset_name $DATASET \
