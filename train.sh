@@ -1,10 +1,10 @@
 DATASET=PopQA
 PER_DEVICE_BATCH_SIZE=1
-NUM_DEVICE=4
+NUM_DEVICE=1
 TOTAL_BATCH_SIZE=128
 GRADIENT_ACC_STEPS=$(($TOTAL_BATCH_SIZE/$NUM_DEVICE/$PER_DEVICE_BATCH_SIZE))
 
-CUDA_VISIBLE_DEVICES="0,1,2,3" torchrun --nproc_per_node=$NUM_DEVICE src/finetune.py \
+CUDA_VISIBLE_DEVICES=0 torchrun --nproc_per_node=$NUM_DEVICE src/finetune.py \
   --model_name_or_path meta-llama/Meta-Llama-3-8B-Instruct \
   --dataset_name $DATASET \
   --output_dir saved_checkpoints/InstructRAG-FT/${DATASET} \
