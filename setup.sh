@@ -37,3 +37,6 @@ pip install flash-attn==2.5.6 --no-build-isolation
 # our a40
 # conda install nvidia::cuda-nvcc
 # pip install flash-attn==2.5.6 --no-build-isolation --use-pep517
+
+huggingface-cli login
+# hf_SettingsAccessTokensRepositoriesPermissions
