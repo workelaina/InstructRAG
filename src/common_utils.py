@@ -14,7 +14,7 @@
 
 import os
 import io
-import functools
+# import functools
 import json
 import time
 import types
@@ -29,7 +29,7 @@ import numpy as np
 from typing import Callable, Optional, Sequence, Union
 import log_utils
 
-makedirs = functools.partial(os.makedirs, exist_ok=True)
+# makedirs = functools.partial(os.makedirs, exist_ok=True)
 logger = log_utils.get_logger(__name__)
 
 def alleq(l: Sequence, f: Optional[Callable] = lambda x, y: x == y):
@@ -66,7 +66,7 @@ def _make_w_io_base(f, mode: str):
     if not isinstance(f, io.IOBase):
         f_dirname = os.path.dirname(f)
         if f_dirname != "":
-            makedirs(f_dirname, exist_ok=True)
+            os.makedirs(f_dirname, exist_ok=True)
         f = open(f, mode=mode)
     return f
 
