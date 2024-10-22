@@ -1,6 +1,8 @@
 # Data Files
 dataset/*
 !dataset/README.md
+!dataset/ASQA
+!dataset/PopQA
 saved_checkpoints/
 wandb/
 eval_results/
