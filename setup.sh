@@ -1,5 +1,18 @@
 #!/bin/bash
 
+apt update
+# apt upgrade
+apt install git vim screen tree pciutils pkg-config
+# vim ~/.ssh/authorized_keys
+
+mkdir -p ~/miniconda3
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+# rm ~/miniconda3/miniconda.sh
+
+source ~/miniconda3/bin/activate
+conda init --all
+
 conda create -n instrag python=3.10 -y
 
 conda activate instrag
@@ -15,5 +28,5 @@ pip install accelerate
 pip install flash-attn==2.5.6 --no-build-isolation
 
 # our a40
-conda install nvidia::cuda-nvcc
-pip install flash-attn==2.5.6 --no-build-isolation --use-pep517
+# conda install nvidia::cuda-nvcc
+# pip install flash-attn==2.5.6 --no-build-isolation --use-pep517
