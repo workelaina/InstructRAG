@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Who is the author of The Mahdi?",
+        "answers": [
+            "A. J. Quinnell",
+            "A.J. Quinnell",
+            "A J Quinnell",
+            "AJ Quinnell",
+            "A.J. Quinnel",
+            "Philip Nicholson"
+        ],
+        "qa_pairs": null,
+        "rationale": "The documents that are useful to answer the question \"Who is the author of The Mahdi?\" are:\n\n* Document 2 (Title: The Mahdi)\n* Document 3 (Title: The Mahdi)\n* Document 3 (Title: The Mahdi)\n\nThese documents all mention the title \"The Mahdi\" and provide information about the author of the book. Specifically, Document 2 states that \"The Mahdi\" is a 1981 thriller novel by Philip Nicholson, writing as A. J. Quinnell. Document 3 also confirms this, stating that the book was published in 1981 by Philip Nicholson, writing as A. J. Quinnell. Therefore, the answer to the question is that the author of \"The Mahdi\" is either A. J. Quinnell or Philip Nicholson, as they are the same person.\n\nThe other documents do not provide information about the author of \"The Mahdi\", and are not relevant to the question.\n\nIn conclusion, the correct answers to the question \"Who is the author of The Mahdi?\" are A. J. Quinnell and Philip Nicholson, as they are the same person who wrote the book.",
+        "ctxs": [
+            {
+                "id": "4109326",
+                "title": "Sadiq al-Mahdi",
+                "text": "In 2014 the government alleged that Mahdi had collaborated with rebels, and consequently Mahdi fled to Egypt. He eventually returned to Khartoum on 26 January 2017. Speaking to a crowd of supporters on the occasion, he declared that he had come back \"to stop war, achieve peace and set up democracy and restitution of rights\" and vowed to \"work to fight Islamic extremist groups and revive moderate Islam\". He is the author of a variety of scholarly and political books, including \"The Southern Question\" (1964); \"Speeches in Exile\" (1976); \"Questions on Mahadism\" (1979); \"Legitimate Penalties and Their Position in the",
+                "score": "1.476204"
+            },
+            {
+                "id": "3485609",
+                "title": "The Mahdi",
+                "text": "been prophesied to follow Muhammad, and attempt to control him, as control over the Mahdi would give them control over the Muslim world. Reception to \"The Mahdi\" was mixed, with many reviewers criticizing the book's implausibility. The New York Times gave \"The Mahdi\" an overall positive review, calling the plot \"elegant\" while stating that the lack of a defined villain makes it seem as if there were \"less at stake here than there ought to be\". The Mahdi The Mahdi is a 1981 thriller novel by Philip Nicholson, writing as A. J. Quinnell. The book was published in 1981 by",
+                "score": "1.4863449"
+            },
+            {
+                "id": "3485608",
+                "title": "The Mahdi",
+                "text": "The Mahdi The Mahdi is a 1981 thriller novel by Philip Nicholson, writing as A. J. Quinnell. The book was published in 1981 by Macmillan in the UK then in January 1982 by William Morrow & Co in the US and deals with political power struggles over a presumed Muslim prophet. \"The Mahdi\" follows several characters as they attempt to find a way to negate the threat of Muslim fundamentalism to the Western World's oil supply. Pritchard, a slick triple agent, has been tapped to help solve the problem. He proposes that they find the Mahdi, a prophet that has",
+                "score": "1.4947588"
+            },
+            {
+                "id": "15864729",
+                "title": "Abd al-Rahman al-Mahdi",
+                "text": "the Yemenite scholar Abd al-Rahman ibn Hurayn al-Jabri to come to Omdurman and make a study of Mahdism. Al-Jabri wrote a book covering the history of the movement and its justification in the \"hadith\", essentially designed to glorify the Mahdi and his son. Abd al-Rahman tried to publish the book in 1925\u201326, but the British confiscated the manuscript, which they considered to be highly seditious. To avoid publicity, they did not prosecute al-Jabri but quietly deported him. Abd al-Rahman made overtures to the \"effendiyya\", the growing elite of educated people in Sudan, patronizing their social and educational institutions. He became",
+                "score": "1.4985502"
+            },
+            {
+                "id": "11688179",
+                "title": "Muhsin Mahdi",
+                "text": "With Prof. Ralph Lerner at Chicago and Prof. Ernest Fortin at Boston College, he co-edited Medieval Political Philosophy, a path-breaking sourcebook that includes selections in translation from Arabic, Hebrew and Latin texts. \"La fondation de la philosophie politique en islam. La cit\u00e9 vertueuse d'Alfarabi.\" Champs. Flammarion. Paris. 2000. Muhsin Mahdi, Muhsin S. Mahdi, Mu\u1e25sin Mahd\u012b Muhsin Mahdi Mu\u1e25sin Mahd\u012b () (June 21, 1926 \u2013 July 9, 2007) was an Iraqi-American islamologist and arabist. He was a leading authority on Arabian history, philology, and philosophy. His best-known work was the first critical edition of the \"One Thousand and One Nights\". He",
+                "score": "1.5561512"
+            }
+        ]
+    },
+    {
+        "question": "In what country is Taman Prasasti Museum?",
+        "answers": [
+            "Indonesia",
+            "Republic of Indonesia",
+            "id",
+            "ID",
+            "INA",
+            "IDN"
+        ],
+        "qa_pairs": null,
+        "rationale": "The documents that are useful to answer the question \"In what country is Taman Prasasti Museum?\" are:\n\n* Document 1\n* Document 2\n* Document 3\n* Document 4\n* Document 5\n\nThese documents all mention that Taman Prasasti Museum is located in Jakarta, which is the capital city of Indonesia. For example, Document 1 states that the museum is located in central Jakarta, while Document 4 explicitly states that the museum is located in Jakarta, Indonesia.\n\nThe contents of these documents lead to the answer \"Indonesia\" because they all provide information about the location of the museum, which is Jakarta, and Jakarta is the capital city of Indonesia. Therefore, it can be inferred that the Taman Prasasti Museum is located in Indonesia.\n\nIn conclusion, the correct answer is \"Indonesia\", as all the provided documents confirm that the museum is located in Jakarta, which is the capital city of Indonesia.",
+        "ctxs": [
+            {
+                "id": "216670",
+                "title": "Jakarta",
+                "text": "Building), National Gallery of Indonesia, National History Museum at National Monument, Istiqlal Islamic Museum in Istiqlal Mosque and Jakarta Cathedral Museum on the second floor of Jakarta Cathedral. Also in central is the Taman Prasasti Museum (former cemetery of Batavia), and Textile Museum in Tanah Abang area. Museum MACAN is an art museum of modern and contemporary Indonesian and international art located at west Jakarta. The recreational area of Taman Mini Indonesia Indah in East Jakarta contains fourteen museums, such as Indonesia Museum, Purna Bhakti Pertiwi Museum, Asmat Museum, Bayt al-Qur'an Islamic Museum, Pusaka (heirloom) Museum, and other science-based museum",
+                "score": "1.7704722"
+            },
+            {
+                "id": "14295743",
+                "title": "Taman Prasasti Museum",
+                "text": "marked with the inscription \"HK\" or \"Hollandsche Kerk\". The oldest gravestones is from the 17th century up to the end of 18th century. The style of the gravestones range from Javanese-Hindu style, neogothic, and classical. The gravestones are arranged on a park-like setting. Other collection of this museum are ancient inscription stones, miniature of different gravestones from various provinces of Indonesia, a replica of a 17th-century hearse, and the original coffins for Sukarno and Mohammad Hatta, the first president and vice president of Indonesia. The doric-style main building in front of the cemetery is built in 1874. The building contains",
+                "score": "1.8051796"
+            },
+            {
+                "id": "14295742",
+                "title": "Taman Prasasti Museum",
+                "text": "positions. The size of the cemetery is also reduced from the original 5.9 hectare plot to 1.3 hectares. Only 1,372 of about 4,200 stones were selected to be kept in the cemetery. The cemetery was officially inaugurated as Taman Prasasti Museum on July 9, 1977 by Ali Sadikin, former governor of Jakarta. Since 2003, the museum is administered by the Jakarta History Museum management. The main collection of the museum is the Dutch gravestones, some of these came from the former \"Nieuwe Hollandsche Kerk\" (the location of which is now the Wayang Museum in Jakarta Old Town). These gravestones are",
+                "score": "1.8188945"
+            },
+            {
+                "id": "14295738",
+                "title": "Taman Prasasti Museum",
+                "text": "Taman Prasasti Museum Museum Taman Prasasti (Indonesian for Museum of Memorial Stone Park or Inscription Museum) is a museum located in Jakarta, Indonesia. The museum was formerly a cemetery, built by the Dutch colonial government in 1795 as a final resting place for noble Dutchmen. Several important person that was buried in the cemetery area are Olivia Mariamne Raffles - the first wife of British governor general Thomas Stamford Raffles - and Indonesian youth activist Soe Hok Gie. The cemetery area is the oldest of its kind in Jakarta and may have been the oldest modern cemetery in the world",
+                "score": "2.006713"
+            },
+            {
+                "id": "14295744",
+                "title": "Taman Prasasti Museum",
+                "text": "two wings to the left and to the right of the main building, each is used to entomb remains of males and females. Taman Prasasti Museum Museum Taman Prasasti (Indonesian for Museum of Memorial Stone Park or Inscription Museum) is a museum located in Jakarta, Indonesia. The museum was formerly a cemetery, built by the Dutch colonial government in 1795 as a final resting place for noble Dutchmen. Several important person that was buried in the cemetery area are Olivia Mariamne Raffles - the first wife of British governor general Thomas Stamford Raffles - and Indonesian youth activist Soe Hok",
+                "score": "2.0181608"
+            }
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Who won nathan's hot dog eating contest?",
+        "answers": [
+            "The Nathan's Hot Dog Eating Contest is an annual American hot dog eating competition held on Independence Day at Nathan's Famous Corporation's original restaurant at the corner of Surf and Stillwell Avenues in Coney Island, a neighborhood of Brooklyn, New York City. The current men's and women's competitions champions are Joey Chestnut and Michelle Lesco, who crowned themselves in the 2021 edition. Previously, Miki Sudo had won the women's competition every year from 2014-2020, with Chestnut doing so in the men's variant in 2017 and 2016 and Matt Stonie in 2015."
+        ],
+        "qa_pairs": [
+            {
+                "question": "Who won the men's competition of Nathan's Hot Dog Eating Contest in 2017?",
+                "answers": [
+                    "Joey Chestnut"
+                ]
+            },
+            {
+                "question": "Who won the women's competition of Nathan's Hot Dog Eating Contest in 2017?",
+                "answers": [
+                    "Miki Sudo"
+                ]
+            },
+            {
+                "question": "Who won the men's competition of Nathan's Hot Dog Eating Contest in 2016?",
+                "answers": [
+                    "Joey Chestnut"
+                ]
+            },
+            {
+                "question": "Who won the women's competition of Nathan's Hot Dog Eating Contest in 2016?",
+                "answers": [
+                    "Miki Sudo"
+                ]
+            },
+            {
+                "question": "Who won the men's competition of Nathan's Hot Dog Eating Contest in 2015?",
+                "answers": [
+                    "Matt Stonie"
+                ]
+            },
+            {
+                "question": "Who won the women's competition of Nathan's Hot Dog Eating Contest in 2015?",
+                "answers": [
+                    "Miki Sudo"
+                ]
+            }
+        ],
+        "rationale": "The documents that are useful to answer the question \"Who won Nathan's hot dog eating contest?\" are:\n\n* Document 1: Nathan's Hot Dog Eating Contest\n* Document 5: Sonya Thomas\n\nDocument 1 provides information about the history of the contest, including the fact that Sonya Thomas became the champion of the first Nathan's Hot Dog Eating Contest for Women in 2011.\n\nDocument 5 provides more information about Sonya Thomas, including her achievements in competitive eating, including winning the Nathan's Hot Dog Eating Contest for Women in 2011.\n\nBased on these documents, we can conclude that Sonya Thomas won the Nathan's Hot Dog Eating Contest for Women in 2011.\n\nHowever, the provided answer mentions the champions of the 2021 edition, which is not mentioned in the provided documents. Therefore, we cannot determine the winners of the contest for years after 2011 based on the provided information.\n\nIn conclusion, the answer to the question \"Who won Nathan's hot dog eating contest?\" is Sonya Thomas, who won the Nathan's Hot Dog Eating Contest for Women in 2011.",
+        "ctxs": [
+            {
+                "id": "3360010",
+                "title": "Nathan's Hot Dog Eating Contest",
+                "text": "competitive eating by downing 50 hot dogs\u2014smashing the previous record of 25.5. The Japanese eater introduced advanced eating and training techniques that shattered previous competitive eating world records. The rise in popularity of the event coincided with the surge in popularity of the worldwide competitive eating circuit. On July 4, 2011, Sonya Thomas became the champion of the first Nathan's Hot Dog Eating Contest for Women. Previously, women and men had competed against each other, except for one all-female Memorial Day competition held in 1975. Eating 40 hot dogs in 10 minutes, Thomas earned the inaugural Pepto-Bismol-sponsored pink belt and",
+                "score": 0.7802734375
+            },
+            {
+                "id": "3360007",
+                "title": "Nathan's Hot Dog Eating Contest",
+                "text": "Island most years since about 1972, usually in conjunction with Independence Day. Nathan's promoter Mortimer Matz claimed that on July 4, 1916, four immigrants held a hot dog eating contest at Nathan's Famous stand on Coney Island to settle an argument about who was the most patriotic. He also made the spurious claim that the contest has been held each year since then except 1941 (\"as a protest to the war in Europe\") and 1971 (as a protest to political unrest in the U.S.). A man by the name of Jim Mullen is said to have won the first contest,",
+                "score": 0.7802734375
+            },
+            {
+                "id": "3360012",
+                "title": "Nathan's Hot Dog Eating Contest",
+                "text": "called to the stage individually during introductions. In 2013, six-time defending champion Joey Chestnut was escorted to the stage in a sedan chair. The competition draws many spectators and worldwide press coverage. In 2007, an estimated 50,000 came out to witness the event. In 2004 a three-story-high \"Hot Dog Eating Wall of Fame\" was erected at the site of the annual contest. The wall lists past winners, and has a digital clock which counts down the minutes until the next contest. Despite substantial damage suffered at Nathan's due to Hurricane Sandy in October 2012, the location was repaired, reopened, and",
+                "score": 0.7958984375
+            },
+            {
+                "id": "3360002",
+                "title": "Nathan's Hot Dog Eating Contest",
+                "text": "Nathan's Hot Dog Eating Contest The Nathan's Hot Dog Eating Contest is an annual American hot dog competitive eating competition. It is held each year on Independence Day at Nathan's Famous Corporation's original, and best-known restaurant at the corner of Surf and Stillwell Avenues in Coney Island, a neighborhood of Brooklyn, New York City. The contest has gained public attention in recent years due to the stardom of Takeru Kobayashi and Joey Chestnut. The defending men's champion is Joey Chestnut, who ate 74 hot dogs in the 2018 contest. The defending women's champion is Miki Sudo, who ate 37 hot",
+                "score": 0.7978515625
+            },
+            {
+                "id": "3425375",
+                "title": "Sonya Thomas",
+                "text": "at the time. The only eaters besides Kobayashi to defeat Thomas between the 2004 and 2005 Nathan's contests were Bill \"El Wingador\" Simmons in the controversial 2005 Wing Bowl, and Dale Boone, who won a contest eating overheated baked beans after he doused the beans in water to cool them down. On July 4, 2011, Thomas became the first champion of Nathan's Hot Dog Eating Contest for Women. Eating 40 hot dogs in 10 minutes, Thomas earned the inaugural Pink Belt and won $10,000. Thomas had won 1st place in the National Buffalo Wing Festival US chicken wing eating championship",
+                "score": 0.8037109375
+            }
+        ]
+    },
+    {
+        "question": "Where does the last name ketchum come from?",
+        "answers": [
+            "The surname Ketchum, a habitational name most likely reduced from Kitchenham, is originally from the country of England."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What country did the last name Ketchum come from?",
+                "answers": [
+                    "England"
+                ]
+            },
+            {
+                "question": "From what background does the last name Ketchum come from?",
+                "answers": [
+                    "A habitational name most likely reduced from Kitchenham"
+                ]
+            }
+        ],
+        "rationale": "The documents that are useful to answer the question \"Where does the last name Ketchum come from?\" are Documents 4 and 5.\n\nDocument 4 states that Edward Ketchum, born around 1590, is assumed to be the origin of the surname Ketchum, and that there is no known connection between him and the Chetham family of Crumpsall, Lancashire, England. This suggests that the surname Ketchum may have originated from England, but the exact connection is unclear.\n\nDocument 5 provides more information about Edward Ketcham, stating that he came to America during the Great Puritan Migration and settled in Ipswich, Massachusetts, in the 1630s. This document implies that the surname Ketchum has English roots, but does not provide a specific location in England.\n\nBased on these documents, it can be inferred that the surname Ketchum likely originated in England, but the exact location is unclear. However, Document 4 mentions that the surname may be reduced from \"Kitchenham\", which could be a clue to its origins.\n\nWithout referring to the provided information, based on general knowledge, it can be stated that the surname Ketchum is a habitational name, which is a type of surname that originated from a place or location. In this case, the surname Ketchum is likely derived from the English place name \"Kitchenham\", which is a common pattern for habitational surnames. Therefore, the answer to the question is: \"The surname Ketchum, a habitational name most likely reduced from Kitchenham, is originally from the country of England.\"\n\nIn conclusion, while the provided documents do not provide a specific location in England for the origin of the surname Ketchum, they do suggest that it has English roots. The inference that the surname may be reduced from \"Kitchenham\" and the general knowledge of habitational surnames provide a plausible answer to the question.",
+        "ctxs": [
+            {
+                "id": "14163301",
+                "title": "Dan Ketchum",
+                "text": "Dan Ketchum Daniel Ketchum (born October 7, 1981) is an American former swimmer and Olympic gold medalist. At the 2004 Summer Olympics in Athens, Greece, Ketchum earned a gold medal by swimming for the winning U.S. team in the men's 4\u00d7200-meter freestyle relay. Ketchum spent two years in Ireland from 1994 to 1996, where he was educated at Villiers School. He swam for the Cincinnati Marlins swim club as an age group swimmer, and later for Sycamore High School in Cincinnati. While swimming for Sycamore High, he won six individual Ohio state swimming championships in 1998, 1999 and 2000\u2014three each",
+                "score": 0.74560546875
+            },
+            {
+                "id": "18411676",
+                "title": "James S. Ketchum",
+                "text": "James S. Ketchum James S. Ketchum (born \"ca.\" 1931, Manhattan, New York, New York) is a retired psychiatrist and US Army colonel who worked for almost a decade (1960-1969) on the U.S. military\u2019s top secret psychochemical warfare program at the Edgewood Arsenal, Maryland, which pursued research on chemicals to be used to \u201cincapacitate the minds\u201d of adversaries. Ketchum was born in Manhattan and brought up in Brooklyn, New York. He was educated at Dartmouth and Columbia Colleges and received his MD degree from Cornell Medical School (1952\u201356). He joined the Army in 1956 and served his internship at Letterman Army",
+                "score": 0.7587890625
+            },
+            {
+                "id": "1191226",
+                "title": "Ketchum, Oklahoma",
+                "text": "Ketchum, Oklahoma Ketchum is a town in Craig and Mayes counties, Oklahoma, United States. The population was 442 at the 2010 census, a 27 percent gain from 286 at the 2000 census. Ketchum was named for a prominent member of the Delaware tribe and Methodist minister named James Ketchum who helped found the town in 1899. Ketchum was originally located in northeastern Mayes County, on the bank of the Grand River (Neosho River). It was relocated to southeastern Craig County around 1912 when the Kansas, Oklahoma, and Gulf Railroad (KO&G) was being constructed from southeastern Kansas to Texas. The original",
+                "score": 0.77197265625
+            },
+            {
+                "id": "17322240",
+                "title": "Ketchum (surname)",
+                "text": "is assumed Edward was born in about 1590, though no record of his birth has been located. As far as we currently know, there is NOT A CONNECTION between this Edward (Chetham) Ketcham/Ketchum who came to America and the Chetham family of Crumpsall, Lancashire, England from which Sir Humphrey Chetham (born 1580) is from, for whom the Chetham Library in Manchester England is named. Notable people with the surname include: Fictional characters: Ketchum (surname) Ketchum is a surname that originated in England. Not all people in America who descended from the Ketchu(a)m come from the same man. An example of",
+                "score": 0.8623046875
+            },
+            {
+                "id": "17322239",
+                "title": "Ketchum (surname)",
+                "text": "Ketchum (surname) Ketchum is a surname that originated in England. Not all people in America who descended from the Ketchu(a)m come from the same man. An example of English descent is Edward Ketcham (Chetham as it was spelled in England on the records of his first marriage to Mary Hall and the birth of his first children). There are no known records of his parents, nor any siblings. Edward is not found on any passenger list, but he came to America during the Great Puritan Migration. He can be found with his family in Ipswich, Mass, in the 1630s. It",
+                "score": 0.86767578125
+            }
+        ]
+    }
+]
