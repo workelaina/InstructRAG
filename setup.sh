@@ -2,7 +2,7 @@
 
 apt update
 # apt upgrade
-apt install git vim screen tree pciutils pkg-config
+apt install git vim screen tree pkg-config
 # vim ~/.ssh/authorized_keys
 
 mkdir -p ~/miniconda3
