@@ -66,7 +66,7 @@ def _make_w_io_base(f, mode: str):
     if not isinstance(f, io.IOBase):
         f_dirname = os.path.dirname(f)
         if f_dirname != "":
-            makedirs(f_dirname)
+            makedirs(f_dirname, exist_ok=True)
         f = open(f, mode=mode)
     return f
 
