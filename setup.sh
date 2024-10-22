@@ -13,6 +13,13 @@ bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
 source ~/miniconda3/bin/activate
 conda init --all
 
+vim ~/.bashrc
+# cd /ephemeral
+
+git clone https://github.com/workelaina/InstructRAG.git
+sudo chown -R ubuntu InstructRAG
+sudo chgrp -R ubuntu InstructRAG
+
 conda create -n instrag python=3.10 -y
 
 conda activate instrag
