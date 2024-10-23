@@ -20,6 +20,7 @@ sudo chgrp -R ubuntu v1
 
 vim ~/.bashrc
 # cd /ephemeral
+# cd /mnt/v1
 
 git clone https://github.com/workelaina/InstructRAG.git
 # sudo chown -R ubuntu InstructRAG
