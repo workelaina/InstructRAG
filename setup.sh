@@ -1,8 +1,8 @@
 #!/bin/bash
 
-apt update
-# apt upgrade
-apt install git vim screen tree pkg-config
+sudo apt update
+# sudo apt upgrade
+sudo apt install git vim screen tree pkg-config
 # vim ~/.ssh/authorized_keys
 
 mkdir -p ~/miniconda3
@@ -13,12 +13,17 @@ bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
 source ~/miniconda3/bin/activate
 conda init --all
 
+cd /mnt
+sudo mkdir v1
+sudo chown -R ubuntu v1
+sudo chgrp -R ubuntu v1
+
 vim ~/.bashrc
 # cd /ephemeral
 
 git clone https://github.com/workelaina/InstructRAG.git
-sudo chown -R ubuntu InstructRAG
-sudo chgrp -R ubuntu InstructRAG
+# sudo chown -R ubuntu InstructRAG
+# sudo chgrp -R ubuntu InstructRAG
 
 conda create -n instrag python=3.10 -y
 
